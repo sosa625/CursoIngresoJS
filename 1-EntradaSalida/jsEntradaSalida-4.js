@@ -4,6 +4,18 @@
 */
 function mostrar()
 {
+var nombre;
+
+
+nombre = "juan";
+
+prompt ("juan");
+
+nombre = prompt ("juan");
+
+nombre = document.getELementbyid("elNombre")
+
+alert(nombre);
 
 }
 
